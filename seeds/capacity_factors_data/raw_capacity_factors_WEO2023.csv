@@ -1,256 +1,256 @@
-"source","scenario","scenario_geography","sector","indicator","technology","units","year","value"
-"WEO2023","APS","Global","Power","Capacity","CoalCap","GW",2022,2236.33
-"WEO2023","APS","Global","Power","Capacity","CoalCap","GW",2030,2039.28
-"WEO2023","APS","Global","Power","Capacity","CoalCap","GW",2035,1798.91
-"WEO2023","APS","Global","Power","Capacity","CoalCap","GW",2040,1562.01
-"WEO2023","APS","Global","Power","Capacity","CoalCap","GW",2050,1063.5
-"WEO2023","APS","Global","Power","Capacity","GasCap","GW",2022,1875.46
-"WEO2023","APS","Global","Power","Capacity","GasCap","GW",2030,1910.26
-"WEO2023","APS","Global","Power","Capacity","GasCap","GW",2035,1763.49
-"WEO2023","APS","Global","Power","Capacity","GasCap","GW",2040,1646.4
-"WEO2023","APS","Global","Power","Capacity","GasCap","GW",2050,1424.21
-"WEO2023","APS","Global","Power","Capacity","HydroCap","GW",2022,1392.05
-"WEO2023","APS","Global","Power","Capacity","HydroCap","GW",2030,1620.41
-"WEO2023","APS","Global","Power","Capacity","HydroCap","GW",2035,1803.9
-"WEO2023","APS","Global","Power","Capacity","HydroCap","GW",2040,1990.71
-"WEO2023","APS","Global","Power","Capacity","HydroCap","GW",2050,2303.83
-"WEO2023","APS","Global","Power","Capacity","NuclearCap","GW",2022,416.62
-"WEO2023","APS","Global","Power","Capacity","NuclearCap","GW",2030,496.5
-"WEO2023","APS","Global","Power","Capacity","NuclearCap","GW",2035,586.95
-"WEO2023","APS","Global","Power","Capacity","NuclearCap","GW",2040,676.88
-"WEO2023","APS","Global","Power","Capacity","NuclearCap","GW",2050,769.1
-"WEO2023","APS","Global","Power","Capacity","OilCap","GW",2022,423.01
-"WEO2023","APS","Global","Power","Capacity","OilCap","GW",2030,283.48
-"WEO2023","APS","Global","Power","Capacity","OilCap","GW",2035,233.6
-"WEO2023","APS","Global","Power","Capacity","OilCap","GW",2040,202.14
-"WEO2023","APS","Global","Power","Capacity","OilCap","GW",2050,150.04
-"WEO2023","APS","Global","Power","Capacity","RenewablesCap","GW",2022,2236.82
-"WEO2023","APS","Global","Power","Capacity","RenewablesCap","GW",2030,8204.02
-"WEO2023","APS","Global","Power","Capacity","RenewablesCap","GW",2035,12787.85
-"WEO2023","APS","Global","Power","Capacity","RenewablesCap","GW",2040,17133.07
-"WEO2023","APS","Global","Power","Capacity","RenewablesCap","GW",2050,23352.94
-"WEO2023","APS","Global","Power","Electricity generation","CoalCap","TWh",2022,10427.91
-"WEO2023","APS","Global","Power","Electricity generation","CoalCap","TWh",2030,6997.93
-"WEO2023","APS","Global","Power","Electricity generation","CoalCap","TWh",2035,4484.57
-"WEO2023","APS","Global","Power","Electricity generation","CoalCap","TWh",2040,3341.27
-"WEO2023","APS","Global","Power","Electricity generation","CoalCap","TWh",2050,2244.25
-"WEO2023","APS","Global","Power","Electricity generation","GasCap","TWh",2022,6500.23
-"WEO2023","APS","Global","Power","Electricity generation","GasCap","TWh",2030,6054.57
-"WEO2023","APS","Global","Power","Electricity generation","GasCap","TWh",2035,4988.59
-"WEO2023","APS","Global","Power","Electricity generation","GasCap","TWh",2040,4471.03
-"WEO2023","APS","Global","Power","Electricity generation","GasCap","TWh",2050,3319.02
-"WEO2023","APS","Global","Power","Electricity generation","HydroCap","TWh",2022,4377.8
-"WEO2023","APS","Global","Power","Electricity generation","HydroCap","TWh",2030,5071.16
-"WEO2023","APS","Global","Power","Electricity generation","HydroCap","TWh",2035,5653.2
-"WEO2023","APS","Global","Power","Electricity generation","HydroCap","TWh",2040,6283.98
-"WEO2023","APS","Global","Power","Electricity generation","HydroCap","TWh",2050,7432.33
-"WEO2023","APS","Global","Power","Electricity generation","NuclearCap","TWh",2022,2681.83
-"WEO2023","APS","Global","Power","Electricity generation","NuclearCap","TWh",2030,3495.73
-"WEO2023","APS","Global","Power","Electricity generation","NuclearCap","TWh",2035,4085.83
-"WEO2023","APS","Global","Power","Electricity generation","NuclearCap","TWh",2040,4700.8
-"WEO2023","APS","Global","Power","Electricity generation","NuclearCap","TWh",2050,5300.88
-"WEO2023","APS","Global","Power","Electricity generation","OilCap","TWh",2022,708.67
-"WEO2023","APS","Global","Power","Electricity generation","OilCap","TWh",2030,351.62
-"WEO2023","APS","Global","Power","Electricity generation","OilCap","TWh",2035,261.74
-"WEO2023","APS","Global","Power","Electricity generation","OilCap","TWh",2040,211.8
-"WEO2023","APS","Global","Power","Electricity generation","OilCap","TWh",2050,144.46
-"WEO2023","APS","Global","Power","Electricity generation","RenewablesCap","TWh",2022,4220.85
-"WEO2023","APS","Global","Power","Electricity generation","RenewablesCap","TWh",2030,14334.37
-"WEO2023","APS","Global","Power","Electricity generation","RenewablesCap","TWh",2035,23528.92
-"WEO2023","APS","Global","Power","Electricity generation","RenewablesCap","TWh",2040,32912.86
-"WEO2023","APS","Global","Power","Electricity generation","RenewablesCap","TWh",2050,48768.06
-"WEO2023","NZE_2050","Global","Power","Capacity","CoalCap","GW",2022,2236.33
-"WEO2023","NZE_2050","Global","Power","Capacity","CoalCap","GW",2030,1492.41
-"WEO2023","NZE_2050","Global","Power","Capacity","CoalCap","GW",2035,1005.38
-"WEO2023","NZE_2050","Global","Power","Capacity","CoalCap","GW",2040,679.04
-"WEO2023","NZE_2050","Global","Power","Capacity","CoalCap","GW",2050,394.81
-"WEO2023","NZE_2050","Global","Power","Capacity","GasCap","GW",2022,1875.46
-"WEO2023","NZE_2050","Global","Power","Capacity","GasCap","GW",2030,1760.14
-"WEO2023","NZE_2050","Global","Power","Capacity","GasCap","GW",2035,1447.75
-"WEO2023","NZE_2050","Global","Power","Capacity","GasCap","GW",2040,1160.13
-"WEO2023","NZE_2050","Global","Power","Capacity","GasCap","GW",2050,699.77
-"WEO2023","NZE_2050","Global","Power","Capacity","HydroCap","GW",2022,1392.05
-"WEO2023","NZE_2050","Global","Power","Capacity","HydroCap","GW",2030,1764.52
-"WEO2023","NZE_2050","Global","Power","Capacity","HydroCap","GW",2035,2053.89
-"WEO2023","NZE_2050","Global","Power","Capacity","HydroCap","GW",2040,2312.76
-"WEO2023","NZE_2050","Global","Power","Capacity","HydroCap","GW",2050,2612.07
-"WEO2023","NZE_2050","Global","Power","Capacity","NuclearCap","GW",2022,416.62
-"WEO2023","NZE_2050","Global","Power","Capacity","NuclearCap","GW",2030,541.4
-"WEO2023","NZE_2050","Global","Power","Capacity","NuclearCap","GW",2035,687.79
-"WEO2023","NZE_2050","Global","Power","Capacity","NuclearCap","GW",2040,812.55
-"WEO2023","NZE_2050","Global","Power","Capacity","NuclearCap","GW",2050,915.7
-"WEO2023","NZE_2050","Global","Power","Capacity","OilCap","GW",2022,423.01
-"WEO2023","NZE_2050","Global","Power","Capacity","OilCap","GW",2030,220.15
-"WEO2023","NZE_2050","Global","Power","Capacity","OilCap","GW",2035,141.33
-"WEO2023","NZE_2050","Global","Power","Capacity","OilCap","GW",2040,74.57
-"WEO2023","NZE_2050","Global","Power","Capacity","OilCap","GW",2050,38.61
-"WEO2023","NZE_2050","Global","Power","Capacity","RenewablesCap","GW",2022,2236.82
-"WEO2023","NZE_2050","Global","Power","Capacity","RenewablesCap","GW",2030,9387.66
-"WEO2023","NZE_2050","Global","Power","Capacity","RenewablesCap","GW",2035,15832.48
-"WEO2023","NZE_2050","Global","Power","Capacity","RenewablesCap","GW",2040,21552.76
-"WEO2023","NZE_2050","Global","Power","Capacity","RenewablesCap","GW",2050,28203.52
-"WEO2023","NZE_2050","Global","Power","Electricity generation","CoalCap","TWh",2022,10427.91
-"WEO2023","NZE_2050","Global","Power","Electricity generation","CoalCap","TWh",2030,5143.95
-"WEO2023","NZE_2050","Global","Power","Electricity generation","CoalCap","TWh",2035,1834.41
-"WEO2023","NZE_2050","Global","Power","Electricity generation","CoalCap","TWh",2040,546.52
-"WEO2023","NZE_2050","Global","Power","Electricity generation","CoalCap","TWh",2050,643.55
-"WEO2023","NZE_2050","Global","Power","Electricity generation","GasCap","TWh",2022,6500.23
-"WEO2023","NZE_2050","Global","Power","Electricity generation","GasCap","TWh",2030,6006.85
-"WEO2023","NZE_2050","Global","Power","Electricity generation","GasCap","TWh",2035,3060.08
-"WEO2023","NZE_2050","Global","Power","Electricity generation","GasCap","TWh",2040,1419.49
-"WEO2023","NZE_2050","Global","Power","Electricity generation","GasCap","TWh",2050,510.56
-"WEO2023","NZE_2050","Global","Power","Electricity generation","HydroCap","TWh",2022,4377.8
-"WEO2023","NZE_2050","Global","Power","Electricity generation","HydroCap","TWh",2030,5507
-"WEO2023","NZE_2050","Global","Power","Electricity generation","HydroCap","TWh",2035,6530.35
-"WEO2023","NZE_2050","Global","Power","Electricity generation","HydroCap","TWh",2040,7434.63
-"WEO2023","NZE_2050","Global","Power","Electricity generation","HydroCap","TWh",2050,8225.28
-"WEO2023","NZE_2050","Global","Power","Electricity generation","NuclearCap","TWh",2022,2681.83
-"WEO2023","NZE_2050","Global","Power","Electricity generation","NuclearCap","TWh",2030,3936.35
-"WEO2023","NZE_2050","Global","Power","Electricity generation","NuclearCap","TWh",2035,4952.44
-"WEO2023","NZE_2050","Global","Power","Electricity generation","NuclearCap","TWh",2040,5583.22
-"WEO2023","NZE_2050","Global","Power","Electricity generation","NuclearCap","TWh",2050,6014.8
-"WEO2023","NZE_2050","Global","Power","Electricity generation","OilCap","TWh",2022,708.67
-"WEO2023","NZE_2050","Global","Power","Electricity generation","OilCap","TWh",2030,135.22
-"WEO2023","NZE_2050","Global","Power","Electricity generation","OilCap","TWh",2035,27.75
-"WEO2023","NZE_2050","Global","Power","Electricity generation","OilCap","TWh",2040,2.16
-"WEO2023","NZE_2050","Global","Power","Electricity generation","OilCap","TWh",2050,0.52
-"WEO2023","NZE_2050","Global","Power","Electricity generation","RenewablesCap","TWh",2022,4220.85
-"WEO2023","NZE_2050","Global","Power","Electricity generation","RenewablesCap","TWh",2030,17462.91
-"WEO2023","NZE_2050","Global","Power","Electricity generation","RenewablesCap","TWh",2035,31252.87
-"WEO2023","NZE_2050","Global","Power","Electricity generation","RenewablesCap","TWh",2040,44522.87
-"WEO2023","NZE_2050","Global","Power","Electricity generation","RenewablesCap","TWh",2050,62011.02
-"WEO2023","STEPS","Global","Power","Capacity","CoalCap","GW",2010,1613.76
-"WEO2023","STEPS","Global","Power","Capacity","CoalCap","GW",2021,2200.53
-"WEO2023","STEPS","Global","Power","Capacity","CoalCap","GW",2022,2236.33
-"WEO2023","STEPS","Global","Power","Capacity","CoalCap","GW",2030,2126.68
-"WEO2023","STEPS","Global","Power","Capacity","CoalCap","GW",2035,1962.25
-"WEO2023","STEPS","Global","Power","Capacity","CoalCap","GW",2040,1805.79
-"WEO2023","STEPS","Global","Power","Capacity","CoalCap","GW",2050,1376.06
-"WEO2023","STEPS","Global","Power","Capacity","GasCap","GW",2010,1389.24
-"WEO2023","STEPS","Global","Power","Capacity","GasCap","GW",2021,1853.81
-"WEO2023","STEPS","Global","Power","Capacity","GasCap","GW",2022,1875.46
-"WEO2023","STEPS","Global","Power","Capacity","GasCap","GW",2030,2071.84
-"WEO2023","STEPS","Global","Power","Capacity","GasCap","GW",2035,2144.64
-"WEO2023","STEPS","Global","Power","Capacity","GasCap","GW",2040,2195.65
-"WEO2023","STEPS","Global","Power","Capacity","GasCap","GW",2050,2276.42
-"WEO2023","STEPS","Global","Power","Capacity","HydroCap","GW",2010,1027.42
-"WEO2023","STEPS","Global","Power","Capacity","HydroCap","GW",2021,1359.63
-"WEO2023","STEPS","Global","Power","Capacity","HydroCap","GW",2022,1392.05
-"WEO2023","STEPS","Global","Power","Capacity","HydroCap","GW",2030,1570.96
-"WEO2023","STEPS","Global","Power","Capacity","HydroCap","GW",2035,1681.2
-"WEO2023","STEPS","Global","Power","Capacity","HydroCap","GW",2040,1801.46
-"WEO2023","STEPS","Global","Power","Capacity","HydroCap","GW",2050,2028.25
-"WEO2023","STEPS","Global","Power","Capacity","NuclearCap","GW",2010,402.56
-"WEO2023","STEPS","Global","Power","Capacity","NuclearCap","GW",2021,412.6
-"WEO2023","STEPS","Global","Power","Capacity","NuclearCap","GW",2022,416.62
-"WEO2023","STEPS","Global","Power","Capacity","NuclearCap","GW",2030,482.38
-"WEO2023","STEPS","Global","Power","Capacity","NuclearCap","GW",2035,521.28
-"WEO2023","STEPS","Global","Power","Capacity","NuclearCap","GW",2040,557.05
-"WEO2023","STEPS","Global","Power","Capacity","NuclearCap","GW",2050,621.71
-"WEO2023","STEPS","Global","Power","Capacity","OilCap","GW",2010,436.41
-"WEO2023","STEPS","Global","Power","Capacity","OilCap","GW",2021,425.91
-"WEO2023","STEPS","Global","Power","Capacity","OilCap","GW",2022,423.01
-"WEO2023","STEPS","Global","Power","Capacity","OilCap","GW",2030,301.07
-"WEO2023","STEPS","Global","Power","Capacity","OilCap","GW",2035,268.73
-"WEO2023","STEPS","Global","Power","Capacity","OilCap","GW",2040,235.91
-"WEO2023","STEPS","Global","Power","Capacity","OilCap","GW",2050,178.43
-"WEO2023","STEPS","Global","Power","Capacity","RenewablesCap","GW",2010,305.67
-"WEO2023","STEPS","Global","Power","Capacity","RenewablesCap","GW",2021,1932.74
-"WEO2023","STEPS","Global","Power","Capacity","RenewablesCap","GW",2022,2236.82
-"WEO2023","STEPS","Global","Power","Capacity","RenewablesCap","GW",2030,7049.17
-"WEO2023","STEPS","Global","Power","Capacity","RenewablesCap","GW",2035,10285.65
-"WEO2023","STEPS","Global","Power","Capacity","RenewablesCap","GW",2040,13188.67
-"WEO2023","STEPS","Global","Power","Capacity","RenewablesCap","GW",2050,17111.53
-"WEO2023","STEPS","Global","Power","Electricity generation","CoalCap","TWh",2010,8668.55
-"WEO2023","STEPS","Global","Power","Electricity generation","CoalCap","TWh",2021,10247.46
-"WEO2023","STEPS","Global","Power","Electricity generation","CoalCap","TWh",2022,10427.91
-"WEO2023","STEPS","Global","Power","Electricity generation","CoalCap","TWh",2030,8336.79
-"WEO2023","STEPS","Global","Power","Electricity generation","CoalCap","TWh",2035,6986.61
-"WEO2023","STEPS","Global","Power","Electricity generation","CoalCap","TWh",2040,6166.58
-"WEO2023","STEPS","Global","Power","Electricity generation","CoalCap","TWh",2050,4978.48
-"WEO2023","STEPS","Global","Power","Electricity generation","GasCap","TWh",2010,4847.26
-"WEO2023","STEPS","Global","Power","Electricity generation","GasCap","TWh",2021,6525.78
-"WEO2023","STEPS","Global","Power","Electricity generation","GasCap","TWh",2022,6500.23
-"WEO2023","STEPS","Global","Power","Electricity generation","GasCap","TWh",2030,6613.42
-"WEO2023","STEPS","Global","Power","Electricity generation","GasCap","TWh",2035,6238.31
-"WEO2023","STEPS","Global","Power","Electricity generation","GasCap","TWh",2040,6104.8
-"WEO2023","STEPS","Global","Power","Electricity generation","GasCap","TWh",2050,6210.47
-"WEO2023","STEPS","Global","Power","Electricity generation","HydroCap","TWh",2010,3455.55
-"WEO2023","STEPS","Global","Power","Electricity generation","HydroCap","TWh",2021,4298.58
-"WEO2023","STEPS","Global","Power","Electricity generation","HydroCap","TWh",2022,4377.8
-"WEO2023","STEPS","Global","Power","Electricity generation","HydroCap","TWh",2030,4981.31
-"WEO2023","STEPS","Global","Power","Electricity generation","HydroCap","TWh",2035,5293
-"WEO2023","STEPS","Global","Power","Electricity generation","HydroCap","TWh",2040,5553.75
-"WEO2023","STEPS","Global","Power","Electricity generation","HydroCap","TWh",2050,6350.62
-"WEO2023","STEPS","Global","Power","Electricity generation","NuclearCap","TWh",2010,2756.29
-"WEO2023","STEPS","Global","Power","Electricity generation","NuclearCap","TWh",2021,2809.89
-"WEO2023","STEPS","Global","Power","Electricity generation","NuclearCap","TWh",2022,2681.83
-"WEO2023","STEPS","Global","Power","Electricity generation","NuclearCap","TWh",2030,3351.4
-"WEO2023","STEPS","Global","Power","Electricity generation","NuclearCap","TWh",2035,3664.6
-"WEO2023","STEPS","Global","Power","Electricity generation","NuclearCap","TWh",2040,3886.11
-"WEO2023","STEPS","Global","Power","Electricity generation","NuclearCap","TWh",2050,4353.08
-"WEO2023","STEPS","Global","Power","Electricity generation","OilCap","TWh",2010,963.3
-"WEO2023","STEPS","Global","Power","Electricity generation","OilCap","TWh",2021,683.06
-"WEO2023","STEPS","Global","Power","Electricity generation","OilCap","TWh",2022,708.67
-"WEO2023","STEPS","Global","Power","Electricity generation","OilCap","TWh",2030,462.49
-"WEO2023","STEPS","Global","Power","Electricity generation","OilCap","TWh",2035,398.04
-"WEO2023","STEPS","Global","Power","Electricity generation","OilCap","TWh",2040,355.99
-"WEO2023","STEPS","Global","Power","Electricity generation","OilCap","TWh",2050,274.23
-"WEO2023","STEPS","Global","Power","Electricity generation","RenewablesCap","TWh",2010,753.07
-"WEO2023","STEPS","Global","Power","Electricity generation","RenewablesCap","TWh",2021,3665.55
-"WEO2023","STEPS","Global","Power","Electricity generation","RenewablesCap","TWh",2022,4220.85
-"WEO2023","STEPS","Global","Power","Electricity generation","RenewablesCap","TWh",2030,11958.88
-"WEO2023","STEPS","Global","Power","Electricity generation","RenewablesCap","TWh",2035,17821.83
-"WEO2023","STEPS","Global","Power","Electricity generation","RenewablesCap","TWh",2040,23254.08
-"WEO2023","STEPS","Global","Power","Electricity generation","RenewablesCap","TWh",2050,31717.38
-"WEO2023","APS","Global","Coal","Total energy supply","Coal","EJ",2022,170.177
-"WEO2023","APS","Global","Coal","Total energy supply","Coal","EJ",2030,127.117
-"WEO2023","APS","Global","Coal","Total energy supply","Coal","EJ",2035,92.303
-"WEO2023","APS","Global","Coal","Total energy supply","Coal","EJ",2040,70.599
-"WEO2023","APS","Global","Coal","Total energy supply","Coal","EJ",2050,44.846
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Gas","EJ",2022,144.079
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Gas","EJ",2030,133.431
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Gas","EJ",2035,117.055
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Gas","EJ",2040,104.189
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Gas","EJ",2050,84.262
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Oil","EJ",2022,186.738
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Oil","EJ",2030,176.917
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Oil","EJ",2035,155.242
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Oil","EJ",2040,132.925
-"WEO2023","APS","Global","Oil&Gas","Total energy supply","Oil","EJ",2050,101.739
-"WEO2023","NZE_2050","Global","Coal","Total energy supply","Coal","EJ",2022,170.177
-"WEO2023","NZE_2050","Global","Coal","Total energy supply","Coal","EJ",2030,95.458
-"WEO2023","NZE_2050","Global","Coal","Total energy supply","Coal","EJ",2035,49.927
-"WEO2023","NZE_2050","Global","Coal","Total energy supply","Coal","EJ",2040,25.389
-"WEO2023","NZE_2050","Global","Coal","Total energy supply","Coal","EJ",2050,14.637
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Gas","EJ",2022,144.079
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Gas","EJ",2030,118.374
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Gas","EJ",2035,76.969
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Gas","EJ",2040,52.892
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Gas","EJ",2050,32.023
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Oil","EJ",2022,186.738
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Oil","EJ",2030,148.22
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Oil","EJ",2035,110.404
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Oil","EJ",2040,78.932
-"WEO2023","NZE_2050","Global","Oil&Gas","Total energy supply","Oil","EJ",2050,41.686
-"WEO2023","STEPS","Global","Coal","Total energy supply","Coal","EJ",2010,152.922
-"WEO2023","STEPS","Global","Coal","Total energy supply","Coal","EJ",2021,167.353
-"WEO2023","STEPS","Global","Coal","Total energy supply","Coal","EJ",2022,170.177
-"WEO2023","STEPS","Global","Coal","Total energy supply","Coal","EJ",2030,146.731
-"WEO2023","STEPS","Global","Coal","Total energy supply","Coal","EJ",2035,130.464
-"WEO2023","STEPS","Global","Coal","Total energy supply","Coal","EJ",2040,118.882
-"WEO2023","STEPS","Global","Coal","Total energy supply","Coal","EJ",2050,101.564
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Gas","EJ",2010,115.222
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Gas","EJ",2021,146.25
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Gas","EJ",2022,144.079
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Gas","EJ",2030,148.688
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Gas","EJ",2035,146.851
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Gas","EJ",2040,145.727
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Gas","EJ",2050,144.42
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Oil","EJ",2010,173.018
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Oil","EJ",2021,182.443
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Oil","EJ",2022,186.738
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Oil","EJ",2030,194.938
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Oil","EJ",2035,190.648
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Oil","EJ",2040,186.972
-"WEO2023","STEPS","Global","Oil&Gas","Total energy supply","Oil","EJ",2050,185.825
+source,scenario,scenario_geography,sector,indicator,technology,units,year,value
+WEO2023,APS,Global,Power,Capacity,CoalCap,GW,2022,2236.33
+WEO2023,APS,Global,Power,Capacity,CoalCap,GW,2030,2039.28
+WEO2023,APS,Global,Power,Capacity,CoalCap,GW,2035,1798.91
+WEO2023,APS,Global,Power,Capacity,CoalCap,GW,2040,1562.01
+WEO2023,APS,Global,Power,Capacity,CoalCap,GW,2050,1063.5
+WEO2023,APS,Global,Power,Capacity,GasCap,GW,2022,1875.46
+WEO2023,APS,Global,Power,Capacity,GasCap,GW,2030,1910.26
+WEO2023,APS,Global,Power,Capacity,GasCap,GW,2035,1763.49
+WEO2023,APS,Global,Power,Capacity,GasCap,GW,2040,1646.4
+WEO2023,APS,Global,Power,Capacity,GasCap,GW,2050,1424.21
+WEO2023,APS,Global,Power,Capacity,HydroCap,GW,2022,1392.05
+WEO2023,APS,Global,Power,Capacity,HydroCap,GW,2030,1620.41
+WEO2023,APS,Global,Power,Capacity,HydroCap,GW,2035,1803.9
+WEO2023,APS,Global,Power,Capacity,HydroCap,GW,2040,1990.71
+WEO2023,APS,Global,Power,Capacity,HydroCap,GW,2050,2303.83
+WEO2023,APS,Global,Power,Capacity,NuclearCap,GW,2022,416.62
+WEO2023,APS,Global,Power,Capacity,NuclearCap,GW,2030,496.5
+WEO2023,APS,Global,Power,Capacity,NuclearCap,GW,2035,586.95
+WEO2023,APS,Global,Power,Capacity,NuclearCap,GW,2040,676.88
+WEO2023,APS,Global,Power,Capacity,NuclearCap,GW,2050,769.1
+WEO2023,APS,Global,Power,Capacity,OilCap,GW,2022,423.01
+WEO2023,APS,Global,Power,Capacity,OilCap,GW,2030,283.48
+WEO2023,APS,Global,Power,Capacity,OilCap,GW,2035,233.6
+WEO2023,APS,Global,Power,Capacity,OilCap,GW,2040,202.14
+WEO2023,APS,Global,Power,Capacity,OilCap,GW,2050,150.04
+WEO2023,APS,Global,Power,Capacity,RenewablesCap,GW,2022,2236.82
+WEO2023,APS,Global,Power,Capacity,RenewablesCap,GW,2030,8204.02
+WEO2023,APS,Global,Power,Capacity,RenewablesCap,GW,2035,12787.85
+WEO2023,APS,Global,Power,Capacity,RenewablesCap,GW,2040,17133.07
+WEO2023,APS,Global,Power,Capacity,RenewablesCap,GW,2050,23352.94
+WEO2023,APS,Global,Power,Electricity generation,CoalCap,TWh,2022,10427.91
+WEO2023,APS,Global,Power,Electricity generation,CoalCap,TWh,2030,6997.93
+WEO2023,APS,Global,Power,Electricity generation,CoalCap,TWh,2035,4484.57
+WEO2023,APS,Global,Power,Electricity generation,CoalCap,TWh,2040,3341.27
+WEO2023,APS,Global,Power,Electricity generation,CoalCap,TWh,2050,2244.25
+WEO2023,APS,Global,Power,Electricity generation,GasCap,TWh,2022,6500.23
+WEO2023,APS,Global,Power,Electricity generation,GasCap,TWh,2030,6054.57
+WEO2023,APS,Global,Power,Electricity generation,GasCap,TWh,2035,4988.59
+WEO2023,APS,Global,Power,Electricity generation,GasCap,TWh,2040,4471.03
+WEO2023,APS,Global,Power,Electricity generation,GasCap,TWh,2050,3319.02
+WEO2023,APS,Global,Power,Electricity generation,HydroCap,TWh,2022,4377.8
+WEO2023,APS,Global,Power,Electricity generation,HydroCap,TWh,2030,5071.16
+WEO2023,APS,Global,Power,Electricity generation,HydroCap,TWh,2035,5653.2
+WEO2023,APS,Global,Power,Electricity generation,HydroCap,TWh,2040,6283.98
+WEO2023,APS,Global,Power,Electricity generation,HydroCap,TWh,2050,7432.33
+WEO2023,APS,Global,Power,Electricity generation,NuclearCap,TWh,2022,2681.83
+WEO2023,APS,Global,Power,Electricity generation,NuclearCap,TWh,2030,3495.73
+WEO2023,APS,Global,Power,Electricity generation,NuclearCap,TWh,2035,4085.83
+WEO2023,APS,Global,Power,Electricity generation,NuclearCap,TWh,2040,4700.8
+WEO2023,APS,Global,Power,Electricity generation,NuclearCap,TWh,2050,5300.88
+WEO2023,APS,Global,Power,Electricity generation,OilCap,TWh,2022,708.67
+WEO2023,APS,Global,Power,Electricity generation,OilCap,TWh,2030,351.62
+WEO2023,APS,Global,Power,Electricity generation,OilCap,TWh,2035,261.74
+WEO2023,APS,Global,Power,Electricity generation,OilCap,TWh,2040,211.8
+WEO2023,APS,Global,Power,Electricity generation,OilCap,TWh,2050,144.46
+WEO2023,APS,Global,Power,Electricity generation,RenewablesCap,TWh,2022,4220.85
+WEO2023,APS,Global,Power,Electricity generation,RenewablesCap,TWh,2030,14334.37
+WEO2023,APS,Global,Power,Electricity generation,RenewablesCap,TWh,2035,23528.92
+WEO2023,APS,Global,Power,Electricity generation,RenewablesCap,TWh,2040,32912.86
+WEO2023,APS,Global,Power,Electricity generation,RenewablesCap,TWh,2050,48768.06
+WEO2023,NZE_2050,Global,Power,Capacity,CoalCap,GW,2022,2236.33
+WEO2023,NZE_2050,Global,Power,Capacity,CoalCap,GW,2030,1492.41
+WEO2023,NZE_2050,Global,Power,Capacity,CoalCap,GW,2035,1005.38
+WEO2023,NZE_2050,Global,Power,Capacity,CoalCap,GW,2040,679.04
+WEO2023,NZE_2050,Global,Power,Capacity,CoalCap,GW,2050,394.81
+WEO2023,NZE_2050,Global,Power,Capacity,GasCap,GW,2022,1875.46
+WEO2023,NZE_2050,Global,Power,Capacity,GasCap,GW,2030,1760.14
+WEO2023,NZE_2050,Global,Power,Capacity,GasCap,GW,2035,1447.75
+WEO2023,NZE_2050,Global,Power,Capacity,GasCap,GW,2040,1160.13
+WEO2023,NZE_2050,Global,Power,Capacity,GasCap,GW,2050,699.77
+WEO2023,NZE_2050,Global,Power,Capacity,HydroCap,GW,2022,1392.05
+WEO2023,NZE_2050,Global,Power,Capacity,HydroCap,GW,2030,1764.52
+WEO2023,NZE_2050,Global,Power,Capacity,HydroCap,GW,2035,2053.89
+WEO2023,NZE_2050,Global,Power,Capacity,HydroCap,GW,2040,2312.76
+WEO2023,NZE_2050,Global,Power,Capacity,HydroCap,GW,2050,2612.07
+WEO2023,NZE_2050,Global,Power,Capacity,NuclearCap,GW,2022,416.62
+WEO2023,NZE_2050,Global,Power,Capacity,NuclearCap,GW,2030,541.4
+WEO2023,NZE_2050,Global,Power,Capacity,NuclearCap,GW,2035,687.79
+WEO2023,NZE_2050,Global,Power,Capacity,NuclearCap,GW,2040,812.55
+WEO2023,NZE_2050,Global,Power,Capacity,NuclearCap,GW,2050,915.7
+WEO2023,NZE_2050,Global,Power,Capacity,OilCap,GW,2022,423.01
+WEO2023,NZE_2050,Global,Power,Capacity,OilCap,GW,2030,220.15
+WEO2023,NZE_2050,Global,Power,Capacity,OilCap,GW,2035,141.33
+WEO2023,NZE_2050,Global,Power,Capacity,OilCap,GW,2040,74.57
+WEO2023,NZE_2050,Global,Power,Capacity,OilCap,GW,2050,38.61
+WEO2023,NZE_2050,Global,Power,Capacity,RenewablesCap,GW,2022,2236.82
+WEO2023,NZE_2050,Global,Power,Capacity,RenewablesCap,GW,2030,9387.66
+WEO2023,NZE_2050,Global,Power,Capacity,RenewablesCap,GW,2035,15832.48
+WEO2023,NZE_2050,Global,Power,Capacity,RenewablesCap,GW,2040,21552.76
+WEO2023,NZE_2050,Global,Power,Capacity,RenewablesCap,GW,2050,28203.52
+WEO2023,NZE_2050,Global,Power,Electricity generation,CoalCap,TWh,2022,10427.91
+WEO2023,NZE_2050,Global,Power,Electricity generation,CoalCap,TWh,2030,5143.95
+WEO2023,NZE_2050,Global,Power,Electricity generation,CoalCap,TWh,2035,1834.41
+WEO2023,NZE_2050,Global,Power,Electricity generation,CoalCap,TWh,2040,546.52
+WEO2023,NZE_2050,Global,Power,Electricity generation,CoalCap,TWh,2050,643.55
+WEO2023,NZE_2050,Global,Power,Electricity generation,GasCap,TWh,2022,6500.23
+WEO2023,NZE_2050,Global,Power,Electricity generation,GasCap,TWh,2030,6006.85
+WEO2023,NZE_2050,Global,Power,Electricity generation,GasCap,TWh,2035,3060.08
+WEO2023,NZE_2050,Global,Power,Electricity generation,GasCap,TWh,2040,1419.49
+WEO2023,NZE_2050,Global,Power,Electricity generation,GasCap,TWh,2050,510.56
+WEO2023,NZE_2050,Global,Power,Electricity generation,HydroCap,TWh,2022,4377.8
+WEO2023,NZE_2050,Global,Power,Electricity generation,HydroCap,TWh,2030,5507.0
+WEO2023,NZE_2050,Global,Power,Electricity generation,HydroCap,TWh,2035,6530.35
+WEO2023,NZE_2050,Global,Power,Electricity generation,HydroCap,TWh,2040,7434.63
+WEO2023,NZE_2050,Global,Power,Electricity generation,HydroCap,TWh,2050,8225.28
+WEO2023,NZE_2050,Global,Power,Electricity generation,NuclearCap,TWh,2022,2681.83
+WEO2023,NZE_2050,Global,Power,Electricity generation,NuclearCap,TWh,2030,3936.35
+WEO2023,NZE_2050,Global,Power,Electricity generation,NuclearCap,TWh,2035,4952.44
+WEO2023,NZE_2050,Global,Power,Electricity generation,NuclearCap,TWh,2040,5583.22
+WEO2023,NZE_2050,Global,Power,Electricity generation,NuclearCap,TWh,2050,6014.8
+WEO2023,NZE_2050,Global,Power,Electricity generation,OilCap,TWh,2022,708.67
+WEO2023,NZE_2050,Global,Power,Electricity generation,OilCap,TWh,2030,135.22
+WEO2023,NZE_2050,Global,Power,Electricity generation,OilCap,TWh,2035,27.75
+WEO2023,NZE_2050,Global,Power,Electricity generation,OilCap,TWh,2040,2.16
+WEO2023,NZE_2050,Global,Power,Electricity generation,OilCap,TWh,2050,0.52
+WEO2023,NZE_2050,Global,Power,Electricity generation,RenewablesCap,TWh,2022,4220.85
+WEO2023,NZE_2050,Global,Power,Electricity generation,RenewablesCap,TWh,2030,17462.91
+WEO2023,NZE_2050,Global,Power,Electricity generation,RenewablesCap,TWh,2035,31252.87
+WEO2023,NZE_2050,Global,Power,Electricity generation,RenewablesCap,TWh,2040,44522.87
+WEO2023,NZE_2050,Global,Power,Electricity generation,RenewablesCap,TWh,2050,62011.02
+WEO2023,STEPS,Global,Power,Capacity,CoalCap,GW,2010,1613.76
+WEO2023,STEPS,Global,Power,Capacity,CoalCap,GW,2021,2200.53
+WEO2023,STEPS,Global,Power,Capacity,CoalCap,GW,2022,2236.33
+WEO2023,STEPS,Global,Power,Capacity,CoalCap,GW,2030,2126.68
+WEO2023,STEPS,Global,Power,Capacity,CoalCap,GW,2035,1962.25
+WEO2023,STEPS,Global,Power,Capacity,CoalCap,GW,2040,1805.79
+WEO2023,STEPS,Global,Power,Capacity,CoalCap,GW,2050,1376.06
+WEO2023,STEPS,Global,Power,Capacity,GasCap,GW,2010,1389.24
+WEO2023,STEPS,Global,Power,Capacity,GasCap,GW,2021,1853.81
+WEO2023,STEPS,Global,Power,Capacity,GasCap,GW,2022,1875.46
+WEO2023,STEPS,Global,Power,Capacity,GasCap,GW,2030,2071.84
+WEO2023,STEPS,Global,Power,Capacity,GasCap,GW,2035,2144.64
+WEO2023,STEPS,Global,Power,Capacity,GasCap,GW,2040,2195.65
+WEO2023,STEPS,Global,Power,Capacity,GasCap,GW,2050,2276.42
+WEO2023,STEPS,Global,Power,Capacity,HydroCap,GW,2010,1027.42
+WEO2023,STEPS,Global,Power,Capacity,HydroCap,GW,2021,1359.63
+WEO2023,STEPS,Global,Power,Capacity,HydroCap,GW,2022,1392.05
+WEO2023,STEPS,Global,Power,Capacity,HydroCap,GW,2030,1570.96
+WEO2023,STEPS,Global,Power,Capacity,HydroCap,GW,2035,1681.2
+WEO2023,STEPS,Global,Power,Capacity,HydroCap,GW,2040,1801.46
+WEO2023,STEPS,Global,Power,Capacity,HydroCap,GW,2050,2028.25
+WEO2023,STEPS,Global,Power,Capacity,NuclearCap,GW,2010,402.56
+WEO2023,STEPS,Global,Power,Capacity,NuclearCap,GW,2021,412.6
+WEO2023,STEPS,Global,Power,Capacity,NuclearCap,GW,2022,416.62
+WEO2023,STEPS,Global,Power,Capacity,NuclearCap,GW,2030,482.38
+WEO2023,STEPS,Global,Power,Capacity,NuclearCap,GW,2035,521.28
+WEO2023,STEPS,Global,Power,Capacity,NuclearCap,GW,2040,557.05
+WEO2023,STEPS,Global,Power,Capacity,NuclearCap,GW,2050,621.71
+WEO2023,STEPS,Global,Power,Capacity,OilCap,GW,2010,436.41
+WEO2023,STEPS,Global,Power,Capacity,OilCap,GW,2021,425.91
+WEO2023,STEPS,Global,Power,Capacity,OilCap,GW,2022,423.01
+WEO2023,STEPS,Global,Power,Capacity,OilCap,GW,2030,301.07
+WEO2023,STEPS,Global,Power,Capacity,OilCap,GW,2035,268.73
+WEO2023,STEPS,Global,Power,Capacity,OilCap,GW,2040,235.91
+WEO2023,STEPS,Global,Power,Capacity,OilCap,GW,2050,178.43
+WEO2023,STEPS,Global,Power,Capacity,RenewablesCap,GW,2010,305.67
+WEO2023,STEPS,Global,Power,Capacity,RenewablesCap,GW,2021,1932.74
+WEO2023,STEPS,Global,Power,Capacity,RenewablesCap,GW,2022,2236.82
+WEO2023,STEPS,Global,Power,Capacity,RenewablesCap,GW,2030,7049.17
+WEO2023,STEPS,Global,Power,Capacity,RenewablesCap,GW,2035,10285.65
+WEO2023,STEPS,Global,Power,Capacity,RenewablesCap,GW,2040,13188.67
+WEO2023,STEPS,Global,Power,Capacity,RenewablesCap,GW,2050,17111.53
+WEO2023,STEPS,Global,Power,Electricity generation,CoalCap,TWh,2010,8668.55
+WEO2023,STEPS,Global,Power,Electricity generation,CoalCap,TWh,2021,10247.46
+WEO2023,STEPS,Global,Power,Electricity generation,CoalCap,TWh,2022,10427.91
+WEO2023,STEPS,Global,Power,Electricity generation,CoalCap,TWh,2030,8336.79
+WEO2023,STEPS,Global,Power,Electricity generation,CoalCap,TWh,2035,6986.61
+WEO2023,STEPS,Global,Power,Electricity generation,CoalCap,TWh,2040,6166.58
+WEO2023,STEPS,Global,Power,Electricity generation,CoalCap,TWh,2050,4978.48
+WEO2023,STEPS,Global,Power,Electricity generation,GasCap,TWh,2010,4847.26
+WEO2023,STEPS,Global,Power,Electricity generation,GasCap,TWh,2021,6525.78
+WEO2023,STEPS,Global,Power,Electricity generation,GasCap,TWh,2022,6500.23
+WEO2023,STEPS,Global,Power,Electricity generation,GasCap,TWh,2030,6613.42
+WEO2023,STEPS,Global,Power,Electricity generation,GasCap,TWh,2035,6238.31
+WEO2023,STEPS,Global,Power,Electricity generation,GasCap,TWh,2040,6104.8
+WEO2023,STEPS,Global,Power,Electricity generation,GasCap,TWh,2050,6210.47
+WEO2023,STEPS,Global,Power,Electricity generation,HydroCap,TWh,2010,3455.55
+WEO2023,STEPS,Global,Power,Electricity generation,HydroCap,TWh,2021,4298.58
+WEO2023,STEPS,Global,Power,Electricity generation,HydroCap,TWh,2022,4377.8
+WEO2023,STEPS,Global,Power,Electricity generation,HydroCap,TWh,2030,4981.31
+WEO2023,STEPS,Global,Power,Electricity generation,HydroCap,TWh,2035,5293.0
+WEO2023,STEPS,Global,Power,Electricity generation,HydroCap,TWh,2040,5553.75
+WEO2023,STEPS,Global,Power,Electricity generation,HydroCap,TWh,2050,6350.62
+WEO2023,STEPS,Global,Power,Electricity generation,NuclearCap,TWh,2010,2756.29
+WEO2023,STEPS,Global,Power,Electricity generation,NuclearCap,TWh,2021,2809.89
+WEO2023,STEPS,Global,Power,Electricity generation,NuclearCap,TWh,2022,2681.83
+WEO2023,STEPS,Global,Power,Electricity generation,NuclearCap,TWh,2030,3351.4
+WEO2023,STEPS,Global,Power,Electricity generation,NuclearCap,TWh,2035,3664.6
+WEO2023,STEPS,Global,Power,Electricity generation,NuclearCap,TWh,2040,3886.11
+WEO2023,STEPS,Global,Power,Electricity generation,NuclearCap,TWh,2050,4353.08
+WEO2023,STEPS,Global,Power,Electricity generation,OilCap,TWh,2010,963.3
+WEO2023,STEPS,Global,Power,Electricity generation,OilCap,TWh,2021,683.06
+WEO2023,STEPS,Global,Power,Electricity generation,OilCap,TWh,2022,708.67
+WEO2023,STEPS,Global,Power,Electricity generation,OilCap,TWh,2030,462.49
+WEO2023,STEPS,Global,Power,Electricity generation,OilCap,TWh,2035,398.04
+WEO2023,STEPS,Global,Power,Electricity generation,OilCap,TWh,2040,355.99
+WEO2023,STEPS,Global,Power,Electricity generation,OilCap,TWh,2050,274.23
+WEO2023,STEPS,Global,Power,Electricity generation,RenewablesCap,TWh,2010,753.07
+WEO2023,STEPS,Global,Power,Electricity generation,RenewablesCap,TWh,2021,3665.55
+WEO2023,STEPS,Global,Power,Electricity generation,RenewablesCap,TWh,2022,4220.85
+WEO2023,STEPS,Global,Power,Electricity generation,RenewablesCap,TWh,2030,11958.88
+WEO2023,STEPS,Global,Power,Electricity generation,RenewablesCap,TWh,2035,17821.83
+WEO2023,STEPS,Global,Power,Electricity generation,RenewablesCap,TWh,2040,23254.08
+WEO2023,STEPS,Global,Power,Electricity generation,RenewablesCap,TWh,2050,31717.38
+WEO2023,APS,Global,Coal,Total energy supply,Coal,EJ,2022,170.177
+WEO2023,APS,Global,Coal,Total energy supply,Coal,EJ,2030,127.117
+WEO2023,APS,Global,Coal,Total energy supply,Coal,EJ,2035,92.303
+WEO2023,APS,Global,Coal,Total energy supply,Coal,EJ,2040,70.599
+WEO2023,APS,Global,Coal,Total energy supply,Coal,EJ,2050,44.846
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Gas,EJ,2022,144.079
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Gas,EJ,2030,133.431
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Gas,EJ,2035,117.055
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Gas,EJ,2040,104.189
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Gas,EJ,2050,84.262
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Oil,EJ,2022,186.738
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Oil,EJ,2030,176.917
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Oil,EJ,2035,155.242
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Oil,EJ,2040,132.925
+WEO2023,APS,Global,Oil&Gas,Total energy supply,Oil,EJ,2050,101.739
+WEO2023,NZE_2050,Global,Coal,Total energy supply,Coal,EJ,2022,170.177
+WEO2023,NZE_2050,Global,Coal,Total energy supply,Coal,EJ,2030,95.458
+WEO2023,NZE_2050,Global,Coal,Total energy supply,Coal,EJ,2035,49.927
+WEO2023,NZE_2050,Global,Coal,Total energy supply,Coal,EJ,2040,25.389
+WEO2023,NZE_2050,Global,Coal,Total energy supply,Coal,EJ,2050,14.637
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Gas,EJ,2022,144.079
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Gas,EJ,2030,118.374
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Gas,EJ,2035,76.969
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Gas,EJ,2040,52.892
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Gas,EJ,2050,32.023
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Oil,EJ,2022,186.738
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Oil,EJ,2030,148.22
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Oil,EJ,2035,110.404
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Oil,EJ,2040,78.932
+WEO2023,NZE_2050,Global,Oil&Gas,Total energy supply,Oil,EJ,2050,41.686
+WEO2023,STEPS,Global,Coal,Total energy supply,Coal,EJ,2010,152.922
+WEO2023,STEPS,Global,Coal,Total energy supply,Coal,EJ,2021,167.353
+WEO2023,STEPS,Global,Coal,Total energy supply,Coal,EJ,2022,170.177
+WEO2023,STEPS,Global,Coal,Total energy supply,Coal,EJ,2030,146.731
+WEO2023,STEPS,Global,Coal,Total energy supply,Coal,EJ,2035,130.464
+WEO2023,STEPS,Global,Coal,Total energy supply,Coal,EJ,2040,118.882
+WEO2023,STEPS,Global,Coal,Total energy supply,Coal,EJ,2050,101.564
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Gas,EJ,2010,115.222
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Gas,EJ,2021,146.25
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Gas,EJ,2022,144.079
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Gas,EJ,2030,148.688
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Gas,EJ,2035,146.851
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Gas,EJ,2040,145.727
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Gas,EJ,2050,144.42
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Oil,EJ,2010,173.018
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Oil,EJ,2021,182.443
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Oil,EJ,2022,186.738
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Oil,EJ,2030,194.938
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Oil,EJ,2035,190.648
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Oil,EJ,2040,186.972
+WEO2023,STEPS,Global,Oil&Gas,Total energy supply,Oil,EJ,2050,185.825

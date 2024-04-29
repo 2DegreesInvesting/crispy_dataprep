@@ -1,10 +1,48 @@
-Welcome to your new dbt project!
+### Format sql files
 
-### Using the starter project
+`pip install sqlfluff`
 
-Try running the following commands:
-- dbt run
-- dbt test
+```
+sqlfluff fix --dialect ansi ./models
+```
+
+
+### Setup the project's DB
+
+1. Locate the profiles.yaml File
+The profiles.yaml file is typically located in the .dbt directory in the user's home folder. If it doesn’t exist, the developer will need to create it. The location should be:
+
+On Unix-based systems (Linux, MacOS): ~/.dbt/profiles.yaml
+On Windows: %USERPROFILE%\.dbt\profiles.yaml
+
+2. Create or Modify the profiles.yaml File :
+
+```yaml
+crispy_dataprep:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      threads: 1 
+      host: hostname
+      port: 5432
+      user: username
+      pass: password
+      dbname: dbname
+      schema: schema_name
+```
+
+3. Initialize the data sources : 
+
+`dbt seed --full-refresh`
+
+### DBT commands
+
+```sh
+dbt run
+dbt test 
+dbt docs generate && dbt docs serve
+```
 
 
 ### Resources:
