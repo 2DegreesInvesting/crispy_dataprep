@@ -3,8 +3,8 @@ SELECT
     region,
     variable_class,
     sub_variable_class_1,
-    NULL as sub_variable_class_2,  -- Placeholder for the extra column
-    NULL as sector,                -- Placeholder for the extra column    
+    NULL AS sub_variable_class_2,  -- Placeholder for the extra column
+    NULL AS sector,                -- Placeholder for the extra column    
     units,
     year,
     value
